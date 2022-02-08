@@ -62,7 +62,31 @@ Sets the value of the vector to zero
 
 ## Installed Dir
 
-Not implemented yet
+Works like their simple counterparts, but uses [`vector2_dir`](variables#vector2_dir) to set the value
+
+---
+
+### `Vector2.dir_set(dir, value)`  
+
+*Returns:* (`undefined`)
+
+Sets vector values based on direction
+
+---
+
+### `Vector2.dir_add(dir, value)`  
+
+*Returns:* (`undefined`)
+
+Adds vector values based on direction
+
+---
+
+### `Vector2.dir_multi(dir, value)`  
+
+*Returns:* (`undefined`)
+
+Multiplies vector values depending on direction
 
 ---
 

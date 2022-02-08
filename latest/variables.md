@@ -3,7 +3,7 @@
 ---
 
 ### vector2_dir
-enum for [Vector2 dir](methods) methods
+enum for [Vector2 dir](methods#installed-dir) methods
 I try made a system similar to the one that is now in [Unity](https://docs.unity3d.com/ScriptReference/Vector2.html)
 
 The daw parameter in these methods is responsible for where the value will be set.
