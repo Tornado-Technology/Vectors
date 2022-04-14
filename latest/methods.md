@@ -194,7 +194,7 @@ Returns a new Vector2 with all components in `abs` values
 
 ### `math_absv()`
 
-_Returns:_ (`Vector2`)
+_Returns:_ (`self`)
 
 Sets itslef components in `abs` values
 
@@ -210,7 +210,7 @@ Returns a new Vector2 with all components multiplied by all components of Vector
 
 ### `math_powerv(n)`
 
-_Returns:_ (`Vector2`)
+_Returns:_ (`self`)
 
 Sets itslef components in multiplied by all components of Vector2 `n`
 
@@ -226,7 +226,7 @@ Sets itslef components in `round` values
 
 ### `math_ceil()`
 
-_Returns:_ (`Vector2`)
+_Returns:_ (`self`)
 
 Sets itslef components in `ceil` values
 
@@ -304,7 +304,7 @@ Works the same as Lerp, but for both coordinates see [Docmentation](https://manu
 
 ### `Vector2.math_lerpv(targetVector2, amountVector2)`
 
-_Returns:_ (`Vecotr2`)
+_Returns:_ (`self`)
 
 Returns a new Vector2 with all components lerped. Works the same as Lerp, but for both coordinates see [Docmentation](https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Maths_And_Numbers/Number_Functions/lerp.htm)
 
