@@ -2,7 +2,7 @@
 
 ---
 
-- [new Vector2](vector)
-- [Variables & Consts](variables)
+- [Vector2](vector)
+- [Variables](variables)
 - [Methods](methods)
 - [Functions](functions)
