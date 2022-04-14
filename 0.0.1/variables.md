@@ -15,7 +15,7 @@ For example, merhod `Vector2.dir_set(10, vector2_dir.down)` will set the values 
 |------|-------|-----------------|
 |down  |   0   | Vector2(0, -1)  |
 |left  |   1   | Vector2(-1, 0)  |
-|one   |   2   | Vector2(1, 1)   |
-|right |   3   | Vector2(1, 0)   |
-|up    |   4   | Vector2(0, 1)   |
+|one   |   2   | Vector2(1,  1)  |
+|right |   3   | Vector2(1,  0)  |
+|up    |   4   | Vector2(0,  1)  |
 |negone|   5   | Vector2(-1, -1) |

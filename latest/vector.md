@@ -1,12 +1,25 @@
 # Vector2
 
 ---
+### In new Version you have 3 way to create Vector2
 
-### `new Vector2(x, y)`
+### `Vector2(x, y)`
 
 *Returns:* (`Vector2`)
 
-This is a constructor and to create it, before the word Vector2, you need to write new and indicate x and y in parentheses.
+This is a constructor, and to create it, you precede the word `Vector2` with `x` and `y` in parentheses.
+
+### `Vector2(x)`
+
+*Returns:* (`Vector2`)
+
+The same as the code above, only in this case the value of `y` will be equal to `X`
+
+### `Vector2()`
+
+*Returns:* (`Vector2`)
+
+In this case, both coordinates will be equal to `0`
 
 ## Variables
 
