@@ -9,7 +9,7 @@ I try made a system similar to the one that is now in [Unity](https://docs.unity
 The daw parameter in these methods is responsible for where the value will be set.
 An entry like `Vector2(-1, 0)` means that the value is set only `x` and will be negative
 
-For example, merhod `Vector2.dir_set(10, vector2_dir.down)` will set the values of the vector x to `-10`
+For example, merhod `Vector2.dir_set(10, vector2_dir.down)` will set the values of the vector `y` to `-10`
 
 | Key  | Value | Direction       |
 |------|-------|-----------------|
