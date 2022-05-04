@@ -96,7 +96,6 @@ Methods to help represent a vector in a different way
 
 ---
 
-
 ### `to_string([delimiter = ":"])`
 
 _Returns:_ (`string`)
@@ -118,14 +117,6 @@ Returns an array with value `[x, y]` if parameter is `mirror = true` then `[y, x
 _Returns:_ (`ds_list`)
 
 Returns an ds_list with value `[x, y]` if parameter is `mirror = true` then `[y, x]`
-
----
-
-### `to_map([mirror = false])`
-
-_Returns:_ (`ds_map`)
-
-Returns an ds_map with value `[x, y]` if parameter is `mirror = true` then `[y, x]`
 
 ---
 

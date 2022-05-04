@@ -2,19 +2,11 @@
 
 ---
 
-## Vector
+## Converts
 
 ---
 
-### `is_vector2(vector)`
-
-_Returns:_ (`bool`)
-
-Checks if the structure is an instance of the Vector2 class
-
----
-
-### `vector2_to_string(vector, [delimiter = ":"])`
+### `vector2_to_string(Vector2, [delimiter = ":"])`
 
 _Returns:_ (`string`)
 
